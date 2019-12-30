@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/cg_study/cs184/p1-rasterizer/CGL/deps/glew/CMakeLists.txt
+cl : 명령줄 warning D9025: '/W3'을(를) '/w'(으)로 재정의합니다.
+  glew.c
+  glewinfo.c
+  visualinfo.c
+  코드를 생성하고 있습니다...
+glewinfo.obj : warning LNK4006: _main이(가) visualinfo.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+  glew.vcxproj -> D:\cg_study\cs184\p1-rasterizer\build\CGL\deps\glew\Debug\glew.lib

@@ -1,0 +1,16 @@
+﻿  Building Custom Rule D:/cg_study/cs184/p1-rasterizer/CGL/deps/glfw/src/CMakeLists.txt
+cl : 명령줄 warning D9025: '/W3'을(를) '/w'(으)로 재정의합니다.
+  context.c
+  init.c
+  input.c
+  monitor.c
+  window.c
+  win32_init.c
+  win32_monitor.c
+  win32_time.c
+  win32_tls.c
+  win32_window.c
+  winmm_joystick.c
+  wgl_context.c
+  코드를 생성하고 있습니다...
+  glfw.vcxproj -> D:\cg_study\cs184\p1-rasterizer\build\CGL\deps\glfw\src\Debug\glfw3.lib

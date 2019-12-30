@@ -1,0 +1,17 @@
+D:/cg_study/cs184/p1-rasterizer/build/CMakeFiles/INSTALL.dir
+D:/cg_study/cs184/p1-rasterizer/build/CMakeFiles/ALL_BUILD.dir
+D:/cg_study/cs184/p1-rasterizer/build/CMakeFiles/ZERO_CHECK.dir
+D:/cg_study/cs184/p1-rasterizer/build/CGL/CMakeFiles/INSTALL.dir
+D:/cg_study/cs184/p1-rasterizer/build/CGL/CMakeFiles/ALL_BUILD.dir
+D:/cg_study/cs184/p1-rasterizer/build/CGL/deps/freetype/CMakeFiles/INSTALL.dir
+D:/cg_study/cs184/p1-rasterizer/build/CGL/deps/glew/CMakeFiles/glew.dir
+D:/cg_study/cs184/p1-rasterizer/build/CGL/deps/glew/CMakeFiles/INSTALL.dir
+D:/cg_study/cs184/p1-rasterizer/build/CGL/deps/glfw/CMakeFiles/uninstall.dir
+D:/cg_study/cs184/p1-rasterizer/build/CGL/deps/glfw/CMakeFiles/INSTALL.dir
+D:/cg_study/cs184/p1-rasterizer/build/CGL/deps/glfw/CMakeFiles/ALL_BUILD.dir
+D:/cg_study/cs184/p1-rasterizer/build/CGL/deps/glfw/src/CMakeFiles/glfw.dir
+D:/cg_study/cs184/p1-rasterizer/build/CGL/deps/glfw/src/CMakeFiles/INSTALL.dir
+D:/cg_study/cs184/p1-rasterizer/build/CGL/src/CMakeFiles/CGL.dir
+D:/cg_study/cs184/p1-rasterizer/build/CGL/src/CMakeFiles/INSTALL.dir
+D:/cg_study/cs184/p1-rasterizer/build/src/CMakeFiles/draw.dir
+D:/cg_study/cs184/p1-rasterizer/build/src/CMakeFiles/INSTALL.dir
